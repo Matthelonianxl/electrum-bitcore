@@ -16,7 +16,7 @@ after_success:
     - coveralls
 jobs:
   include:
-    - stage: windows build
+    - stage: windows build_x86_iOS_14.1
       sudo: true
       python: 3.5
       install:
