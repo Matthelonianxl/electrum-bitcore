@@ -1,4 +1,4 @@
-pycryptodomex==3.4.12
+pycryptodomex==3.19.1
 PyQt5==5.10
 sip==4.19.7
 six==1.11.0
